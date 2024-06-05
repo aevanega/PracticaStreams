@@ -1,0 +1,8 @@
+
+m	java:S106%"+Replace this use of System.out by a logger.(Ã¤ÖÚ8Ğ¹´°ş1J$5b7e5e05-095f-406d-a11b-49e2a51d3b96
+l	java:S106'"+Replace this use of System.out by a logger.(ÎÊg8Ò¹´°ş1J$15dfe45d-f6bd-4c27-bd72-69f540ca2012
+x
+java:S6035V"0Replace this alternation with a character class.(“Äòşÿÿÿÿ8×¹´°ş1J$6f84b9a1-66a8-489d-9a68-280511e64911
+ƒ	java:S125Y"<This block of commented-out lines of code should be removed.(ÈíÇõùÿÿÿÿ8Ù¹´°ş1J$28a8c816-b56d-495c-bc0b-ab323ddd6a3c
+p
+java:S1128".Remove this unused import 'java.util.TreeSet'.(½îB8Ò¯ÿ±ş1J$a98c8d92-04b7-4a00-8f1a-5dfb70f96c5a
